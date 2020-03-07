@@ -35,7 +35,8 @@ android {
 }
 
 dependencies {
-    implementation 'com.google.vr:sdk-base:1.200.0'
+    implementation 'com.google.vr:sdk-base:1.180.0'
+    implementation 'com.google.vr:sdk-audio:1.180.0'
 
     // Obj - a simple Wavefront OBJ file loader
     // https://github.com/javagl/Obj
