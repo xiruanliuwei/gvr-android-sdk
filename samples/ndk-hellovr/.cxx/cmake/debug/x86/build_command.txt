@@ -1,0 +1,23 @@
+Executable : /Users/Wei.Liu/Library/Android/AndroidSDK/cmake/3.10.2.4988404/bin/cmake
+arguments : 
+-H/Users/Wei.Liu/GithubCodes/gvr-android-sdk/samples/ndk-hellovr
+-DCMAKE_CXX_FLAGS=-std=gnu++11
+-DCMAKE_BUILD_TYPE=Debug
+-DCMAKE_TOOLCHAIN_FILE=/Users/Wei.Liu/Library/Android/android-ndk-r20b/build/cmake/android.toolchain.cmake
+-DANDROID_ABI=x86
+-DANDROID_NDK=/Users/Wei.Liu/Library/Android/android-ndk-r20b
+-DANDROID_PLATFORM=android-19
+-DCMAKE_ANDROID_ARCH_ABI=x86
+-DCMAKE_ANDROID_NDK=/Users/Wei.Liu/Library/Android/android-ndk-r20b
+-DCMAKE_EXPORT_COMPILE_COMMANDS=ON
+-DCMAKE_LIBRARY_OUTPUT_DIRECTORY=/Users/Wei.Liu/GithubCodes/gvr-android-sdk/samples/ndk-hellovr/build/intermediates/cmake/debug/obj/x86
+-DCMAKE_MAKE_PROGRAM=/Users/Wei.Liu/Library/Android/AndroidSDK/cmake/3.10.2.4988404/bin/ninja
+-DCMAKE_SYSTEM_NAME=Android
+-DCMAKE_SYSTEM_VERSION=19
+-DGVR_LIBPATH=/Users/Wei.Liu/GithubCodes/gvr-android-sdk/libraries/jni
+-DGVR_INCLUDE=/Users/Wei.Liu/GithubCodes/gvr-android-sdk/libraries/headers
+-B/Users/Wei.Liu/GithubCodes/gvr-android-sdk/samples/ndk-hellovr/.cxx/cmake/debug/x86
+-GNinja
+jvmArgs : 
+
+Build command args:

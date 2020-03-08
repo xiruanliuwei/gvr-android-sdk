@@ -1,0 +1,7 @@
+Executable : /Users/Wei.Liu/Library/Android/AndroidSDK/cmake/3.10.2.4988404/bin/ninja
+arguments : 
+-C
+/Users/Wei.Liu/GithubCodes/gvr-android-sdk/samples/ndk-hellovr/.cxx/cmake/release/x86
+hellovr_jni
+jvmArgs : 
+

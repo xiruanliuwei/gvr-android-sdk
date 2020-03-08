@@ -1,0 +1,19 @@
+[
+{
+  "directory": "/Users/Wei.Liu/GithubCodes/gvr-android-sdk/samples/ndk-hellovr/.cxx/cmake/debug/armeabi-v7a",
+  "command": "/Users/Wei.Liu/Library/Android/android-ndk-r20b/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=armv7-none-linux-androideabi19 --gcc-toolchain=/Users/Wei.Liu/Library/Android/android-ndk-r20b/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/Wei.Liu/Library/Android/android-ndk-r20b/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -Dhellovr_jni_EXPORTS -I/Users/Wei.Liu/GithubCodes/gvr-android-sdk/libraries/headers  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -march=armv7-a -mthumb -Wa,--noexecstack -Wformat -Werror=format-security  -std=gnu++11 -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles/hellovr_jni.dir/src/main/jni/hello_vr_app.cc.o -c /Users/Wei.Liu/GithubCodes/gvr-android-sdk/samples/ndk-hellovr/src/main/jni/hello_vr_app.cc",
+  "file": "/Users/Wei.Liu/GithubCodes/gvr-android-sdk/samples/ndk-hellovr/src/main/jni/hello_vr_app.cc"
+},
+
+{
+  "directory": "/Users/Wei.Liu/GithubCodes/gvr-android-sdk/samples/ndk-hellovr/.cxx/cmake/debug/armeabi-v7a",
+  "command": "/Users/Wei.Liu/Library/Android/android-ndk-r20b/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=armv7-none-linux-androideabi19 --gcc-toolchain=/Users/Wei.Liu/Library/Android/android-ndk-r20b/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/Wei.Liu/Library/Android/android-ndk-r20b/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -Dhellovr_jni_EXPORTS -I/Users/Wei.Liu/GithubCodes/gvr-android-sdk/libraries/headers  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -march=armv7-a -mthumb -Wa,--noexecstack -Wformat -Werror=format-security  -std=gnu++11 -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles/hellovr_jni.dir/src/main/jni/hello_vr_jni.cc.o -c /Users/Wei.Liu/GithubCodes/gvr-android-sdk/samples/ndk-hellovr/src/main/jni/hello_vr_jni.cc",
+  "file": "/Users/Wei.Liu/GithubCodes/gvr-android-sdk/samples/ndk-hellovr/src/main/jni/hello_vr_jni.cc"
+},
+
+{
+  "directory": "/Users/Wei.Liu/GithubCodes/gvr-android-sdk/samples/ndk-hellovr/.cxx/cmake/debug/armeabi-v7a",
+  "command": "/Users/Wei.Liu/Library/Android/android-ndk-r20b/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=armv7-none-linux-androideabi19 --gcc-toolchain=/Users/Wei.Liu/Library/Android/android-ndk-r20b/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/Wei.Liu/Library/Android/android-ndk-r20b/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -Dhellovr_jni_EXPORTS -I/Users/Wei.Liu/GithubCodes/gvr-android-sdk/libraries/headers  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -march=armv7-a -mthumb -Wa,--noexecstack -Wformat -Werror=format-security  -std=gnu++11 -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles/hellovr_jni.dir/src/main/jni/util.cc.o -c /Users/Wei.Liu/GithubCodes/gvr-android-sdk/samples/ndk-hellovr/src/main/jni/util.cc",
+  "file": "/Users/Wei.Liu/GithubCodes/gvr-android-sdk/samples/ndk-hellovr/src/main/jni/util.cc"
+}
+]

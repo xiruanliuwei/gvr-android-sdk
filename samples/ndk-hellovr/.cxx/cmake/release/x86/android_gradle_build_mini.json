@@ -1,0 +1,19 @@
+{
+  "buildFiles": [
+    "/Users/Wei.Liu/Library/Android/android-ndk-r20b/build/cmake/android.toolchain.cmake",
+    "/Users/Wei.Liu/GithubCodes/gvr-android-sdk/samples/ndk-hellovr/CMakeLists.txt",
+    "/Users/Wei.Liu/Library/Android/android-ndk-r20b/build/cmake/platforms.cmake"
+  ],
+  "cleanCommands": [
+    "/Users/Wei.Liu/Library/Android/AndroidSDK/cmake/3.10.2.4988404/bin/ninja -C \"/Users/Wei.Liu/GithubCodes/gvr-android-sdk/samples/ndk-hellovr/.cxx/cmake/release/x86\" clean"
+  ],
+  "buildTargetsCommand": "/Users/Wei.Liu/Library/Android/AndroidSDK/cmake/3.10.2.4988404/bin/ninja  -C \"/Users/Wei.Liu/GithubCodes/gvr-android-sdk/samples/ndk-hellovr/.cxx/cmake/release/x86\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "hellovr_jni-Release-x86": {
+      "artifactName": "hellovr_jni",
+      "buildCommand": "/Users/Wei.Liu/Library/Android/AndroidSDK/cmake/3.10.2.4988404/bin/ninja -C \"/Users/Wei.Liu/GithubCodes/gvr-android-sdk/samples/ndk-hellovr/.cxx/cmake/release/x86\" hellovr_jni",
+      "abi": "x86",
+      "output": "/Users/Wei.Liu/GithubCodes/gvr-android-sdk/samples/ndk-hellovr/build/intermediates/cmake/release/obj/x86/libhellovr_jni.so"
+    }
+  }
+}

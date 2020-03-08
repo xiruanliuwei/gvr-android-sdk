@@ -1,0 +1,5 @@
+ninja: Entering directory `/Users/Wei.Liu/GithubCodes/gvr-android-sdk/samples/ndk-hellovr/.cxx/cmake/release/x86'
+[1/4] Building CXX object CMakeFiles/hellovr_jni.dir/src/main/jni/hello_vr_jni.cc.o
+[2/4] Building CXX object CMakeFiles/hellovr_jni.dir/src/main/jni/hello_vr_app.cc.o
+[3/4] Building CXX object CMakeFiles/hellovr_jni.dir/src/main/jni/util.cc.o
+[4/4] Linking CXX shared library ../../../../build/intermediates/cmake/release/obj/x86/libhellovr_jni.so

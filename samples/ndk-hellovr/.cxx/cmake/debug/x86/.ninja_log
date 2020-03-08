@@ -1,0 +1,5 @@
+# ninja log v5
+0	689	1583661862	CMakeFiles/hellovr_jni.dir/src/main/jni/hello_vr_jni.cc.o	90c9247811bb0550
+0	1055	1583661863	CMakeFiles/hellovr_jni.dir/src/main/jni/hello_vr_app.cc.o	387f6082b792148d
+0	1204	1583661863	CMakeFiles/hellovr_jni.dir/src/main/jni/util.cc.o	1640f5b97a6d45
+1205	1593	1583661863	../../../../build/intermediates/cmake/debug/obj/x86/libhellovr_jni.so	2bc860f9536d0796
